@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1512900958 source:e:\coredroid\complex\main.cpp
+	<iostream>
+	"complex.h"
+
+1512900739 e:\coredroid\complex\complex.h
+	<iostream>
+
